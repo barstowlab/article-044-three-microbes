@@ -1,0 +1,5 @@
+Species,Code,Pulp Density,Day,Mg,Mg StDev
+Control,Ctrl,3,4,59.04106667,0.754799711
+{\it S. desiccabilis},Sd,3,5,99.49896667,3.123009373
+{\it P. simplicissimum},Ps,2,5,907.0775,14.93326745
+{\it G. oxydans},Gox,3,5,3130.4823,64.85179564

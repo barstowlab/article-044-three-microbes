@@ -1,0 +1,5 @@
+Species,Code,Pulp Density,Day,Ni,Ni StDev
+Control,Ctrl,3,4,1.010966667,0.020810174
+{\it S. desiccabilis},Sd,3,5,2.081666667,0.084538887
+{\it P. simplicissimum},Ps,2,5,9.9939,0.076189041
+{\it G. oxydans},Gox,3,5,33.4231,0.615301422

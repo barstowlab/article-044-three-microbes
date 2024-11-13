@@ -1,0 +1,73 @@
+Sample Day,Control,STDEV CTL,Pulp Density,Short Strain,Very Short Strain,Code
+0,8.403333333,0.025166115,3,Ctrl,Ctrl,Ctrl
+1,8.753333333,0.037859389,3,Ctrl,Ctrl,Ctrl
+2,8.673333333,0.023094011,3,Ctrl,Ctrl,Ctrl
+3,8.586666667,0.025166115,3,Ctrl,Ctrl,Ctrl
+4,8.6,0.01,3,Ctrl,Ctrl,Ctrl
+5,8.546666667,0.011547005,3,Ctrl,Ctrl,Ctrl
+0,8.31,0,2,Ctrl,Ctrl,Ctrl
+1,8.59,0.060827625,2,Ctrl,Ctrl,Ctrl
+2,8.613333333,0.040414519,2,Ctrl,Ctrl,Ctrl
+3,8.426666667,0.025166115,2,Ctrl,Ctrl,Ctrl
+4,8.306666667,0.005773503,2,Ctrl,Ctrl,Ctrl
+5,8.44,0.043588989,2,Ctrl,Ctrl,Ctrl
+0,8.116666667,0.049328829,1,Ctrl,Ctrl,Ctrl
+1,8.313333333,0.005773503,1,Ctrl,Ctrl,Ctrl
+2,8.296666667,0.02081666,1,Ctrl,Ctrl,Ctrl
+3,8.193333333,0.064291005,1,Ctrl,Ctrl,Ctrl
+4,8.346666667,0.023094011,1,Ctrl,Ctrl,Ctrl
+5,8.233333333,0.035118846,1,Ctrl,Ctrl,Ctrl
+0,4.656666667,0.037859389,3,{\it G. oxydans},{\it Gox},Gox
+1,3.526666667,0.030550505,3,{\it G. oxydans},{\it Gox},Gox
+2,2.843333333,0.100664459,3,{\it G. oxydans},{\it Gox},Gox
+3,2.646666667,0.032145503,3,{\it G. oxydans},{\it Gox},Gox
+4,2.68,0.026457513,3,{\it G. oxydans},{\it Gox},Gox
+5,2.846666667,0.02081666,3,{\it G. oxydans},{\it Gox},Gox
+0,4.473333333,0.065064071,2,{\it G. oxydans},{\it Gox},Gox
+1,2.813333333,0.140475383,2,{\it G. oxydans},{\it Gox},Gox
+2,2.793333333,0.04163332,2,{\it G. oxydans},{\it Gox},Gox
+3,2.536666667,0.030550505,2,{\it G. oxydans},{\it Gox},Gox
+4,2.67,0.017320508,2,{\it G. oxydans},{\it Gox},Gox
+5,2.596666667,0.04163332,2,{\it G. oxydans},{\it Gox},Gox
+0,4.476666667,0.037859389,1,{\it G. oxydans},{\it Gox},Gox
+1,2.563333333,0.076376262,1,{\it G. oxydans},{\it Gox},Gox
+2,2.226666667,0.045092498,1,{\it G. oxydans},{\it Gox},Gox
+3,2.153333333,0.056862407,1,{\it G. oxydans},{\it Gox},Gox
+4,2.163333333,0.025166115,1,{\it G. oxydans},{\it Gox},Gox
+5,2.333333333,0.035118846,1,{\it G. oxydans},{\it Gox},Gox
+0,7.576666667,0.028867513,3,{\it S. desiccabilis},{\it Sd},Sd
+1,7.72,0.081853528,3,{\it S. desiccabilis},{\it Sd},Sd
+2,7.543333333,0.130128142,3,{\it S. desiccabilis},{\it Sd},Sd
+3,7.31,0.060827625,3,{\it S. desiccabilis},{\it Sd},Sd
+4,6.923333333,0.17953644,3,{\it S. desiccabilis},{\it Sd},Sd
+5,6.68,0.02,3,{\it S. desiccabilis},{\it Sd},Sd
+0,7.633333333,0.015275252,2,{\it S. desiccabilis},{\it Sd},Sd
+1,7.38,0.05,2,{\it S. desiccabilis},{\it Sd},Sd
+2,7.116666667,0.040414519,2,{\it S. desiccabilis},{\it Sd},Sd
+3,6.55,0.02,2,{\it S. desiccabilis},{\it Sd},Sd
+4,6.253333333,0.011547005,2,{\it S. desiccabilis},{\it Sd},Sd
+5,5.946666667,0.032145503,2,{\it S. desiccabilis},{\it Sd},Sd
+0,7.43,0.026457513,1,{\it S. desiccabilis},{\it Sd},Sd
+1,7.066666667,0.025166115,1,{\it S. desiccabilis},{\it Sd},Sd
+2,6.783333333,0.083864971,1,{\it S. desiccabilis},{\it Sd},Sd
+3,6.11,0.088881944,1,{\it S. desiccabilis},{\it Sd},Sd
+4,5.73,0.081853528,1,{\it S. desiccabilis},{\it Sd},Sd
+5,5.533333333,0.080208063,1,{\it S. desiccabilis},{\it Sd},Sd
+0,7.676666667,0.068068593,3,{\it P. simplicissimum},{\it Ps},Ps
+1,7.433333333,0.011547005,3,{\it P. simplicissimum},{\it Ps},Ps
+2,6.326666667,0.246644143,3,{\it P. simplicissimum},{\it Ps},Ps
+3,5.26,0.04,3,{\it P. simplicissimum},{\it Ps},Ps
+4,4.443333333,0.030550505,3,{\it P. simplicissimum},{\it Ps},Ps
+5,4.463333333,0.04163332,3,{\it P. simplicissimum},{\it Ps},Ps
+0,7.586666667,0.115902258,2,{\it P. simplicissimum},{\it Ps},Ps
+1,7.1,0.29866369,2,{\it P. simplicissimum},{\it Ps},Ps
+2,4.716666667,0.168621865,2,{\it P. simplicissimum},{\it Ps},Ps
+3,4.293333333,0.045092498,2,{\it P. simplicissimum},{\it Ps},Ps
+4,4.126666667,0.030550505,2,{\it P. simplicissimum},{\it Ps},Ps
+5,4.08,0.036055513,2,{\it P. simplicissimum},{\it Ps},Ps
+0,7.233333333,0.106926766,1,{\it P. simplicissimum},{\it Ps},Ps
+1,6.776666667,0.023094011,1,{\it P. simplicissimum},{\it Ps},Ps
+2,4.65,0.07,1,{\it P. simplicissimum},{\it Ps},Ps
+3,3.88,0.075498344,1,{\it P. simplicissimum},{\it Ps},Ps
+4,3.753333333,0.032145503,1,{\it P. simplicissimum},{\it Ps},Ps
+5,3.763333333,0.028867513,1,{\it P. simplicissimum},{\it Ps},Ps
