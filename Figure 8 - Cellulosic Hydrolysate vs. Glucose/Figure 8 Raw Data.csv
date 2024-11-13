@@ -1,0 +1,9 @@
+Sample Name,Short Strain,Very Short Strain,Code,Leaching,StDev,Pulp Density,Carbon Text,CS Text
+Control (Glucose),Ctrl (Gluc),Ctrl (Gluc),CtrlG,84.34177,12.98179,10,G,G
+Control (CH),Ctrl (CH),Ctrl (CH),CtrlCH,391.683,57.91159,10,CH,CtrlCH
+{\it S. desiccabilis} (Glucose),{\it S. desiccabilis} (G),{\it Sd} (Gluc),SdG,485.1932,17.5776,10,G,G
+{\it S. desiccabilis} (CH),{\it S. desiccabilis} (CH),{\it Sd} (CH),SdCH,422.79,14.87264,10,CH,SdCH
+{\it P. simplicissimum} (Glucose),{\it P. simplicissimum} (G),{\it Ps} (Gluc),PsG,1437.835,192.8257,10,G,G
+{\it P. simplicissimum} (CH),{\it P. simplicissimum} (CH),{\it Ps} (CH),PsCH,1671.565,582.9687,10,CH,PsCH
+{\it G. oxydans} (Glucose),{\it G. oxydans} (Gluc),{\it Gox} (Gluc),GoxG,8799.649,156.9238,10,G,G
+{\it G. oxydans} (CH),{\it G. oxydans} (CH),{\it Gox} (CH),GoxCH,7312.586,363.3838,10,CH,GoxCH
